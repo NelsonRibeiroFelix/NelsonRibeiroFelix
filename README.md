@@ -7,7 +7,7 @@
 
 - 📫 Você pode me encontrar no E-mail **nelson.ribeiro.felix@gmail.com**
 
-- 📄 Minhas experiências [www.linkedin.com/in/nelson-ribeiro-0683b9323]
+- 📄 Minhas experiências www.linkedin.com/in/nelson-ribeiro-0683b9323
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
