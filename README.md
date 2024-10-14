@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou Nelson Ribeiro Felix</h1>
-<h3 align="center">Olá, meu nome é Nelson e estou cursando Análise e Desenvolvimento de Sistemas. Neste repositório, você encontrará alguns dos meus projetos pessoais.</h3>
+<h3 align="center">Olá, meu nome é Nelson e estou cursando Análise e Desenvolvimento de Sistemas.</h3>
 
 - 🌱 Atualmente estou estudando Análise e desenvolvimento de sistemas **C, Python, SQL.**
 
