@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou estudando Análise e desenvolvimento de sistemas **C, Python, SQL.**
 
-- 💬 Me questiono sobre **C, Python, SQL, Lógica de programação, Excel**
+- 💬 Me pergunte sobre **C, Python, SQL, Lógica de programação, Excel**
 
 - 📫 Você pode me encontrar no E-mail **nelson.ribeiro.felix@gmail.com**
 
