@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, sou Nelson Ribeiro Felix</h1>
 <h3 align="center">Olá, meu nome é Nelson e estou cursando Análise e Desenvolvimento de Sistemas.</h3>
 
-- 🌱 Atualmente estou estudando **C, Python, SQL.**
+- 🌱 Atualmente estou estudando **C, Python, SQL, HTML, CSS**
 
 - 💬 Me pergunte sobre **C, Python, SQL, Lógica de programação, Excel**
 
